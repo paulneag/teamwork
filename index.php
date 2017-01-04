@@ -6,7 +6,7 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta charset="UTF-8">
+        <meta charset="UTF-8" test>
         <title></title>
     </head>
     <body>
@@ -15,5 +15,6 @@ and open the template in the editor.
         echo 'TEST';
         echo "hi! again";
         ?>
+	<footer>Text</footer>
     </body>
 </html>
