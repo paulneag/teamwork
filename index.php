@@ -10,6 +10,7 @@
         <?php
         echo "hi!";
         echo 'TEST';
+        echo 'Paul';
         echo "hi! again";
         ?>
 	<footer>Text</footer>
