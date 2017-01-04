@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 
-<h1>Titlu H1<h1>
-
 <html>
     <head>
         <meta charset="UTF-8" test>
@@ -9,6 +7,7 @@
     </head>
 	<p>Demo</p>
     <body>
+	<h1>Titlu H1<h1>
         <?php
         echo "hi!";
         echo 'TEST';
