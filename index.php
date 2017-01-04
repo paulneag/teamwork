@@ -16,7 +16,19 @@
         echo "hi! again";
         echo "Modificarea mea!";
         ?>
-	<footer>Text</footer>
-	<p>Hey</p>
+        <table>
+            <tr>
+                <td>t</td>
+                <td>t</td>
+                <td>t</td>
+            </tr>
+            <tr>
+                <td>t</td>
+                <td>t</td>
+                <td>t</td>
+            </tr>
+        </table>
+        <footer>Text</footer>
+        <p>Hey</p>
     </body>
 </html>
