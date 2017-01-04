@@ -8,8 +8,8 @@
         <?php
         echo "hi!";
         echo 'TEST';
-	echo "hi! again";
-	echo "Modificarea mea!";
+        echo "hi! again";
+        echo "Modificarea mea!";
         ?>
 	<footer>Text</footer>
 	<p>Hey</p>
