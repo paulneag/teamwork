@@ -5,6 +5,7 @@
         <meta charset="UTF-8" test>
         <title>Titlu</title>
     </head>
+	<p>Demo</p>
     <body>
         <?php
         echo "hi!";
